@@ -1,4 +1,8 @@
+body{
  text-align: center;
+ margin: 0;
+}
+ 
 .horizontal_rule {
  width: 30%;
  display: block;
